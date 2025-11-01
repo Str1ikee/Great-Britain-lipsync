@@ -1,1 +1,1 @@
-# Great-Britain-lipsync
+În acest fișier am analizat videoclipul sincronizat cu buzele. Mai întâi, am dezactivat sunetul videoclipului pentru a mă concentra mai mult. Apoi, am urmărit cu atenție mișcările buzelor și, după un timp, mi-am dat seama ce este FLAG-ul.
